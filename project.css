@@ -1,0 +1,170 @@
+body {
+    font-family: sans-serif;
+    margin-top: 0;
+}
+
+
+nav ul {
+    padding-right: 20px;
+    padding-top: 50px;
+    padding-left: 15px;
+    height: 100%;
+    margin-top: 0px;
+    position: fixed;
+    z-index: 1;
+    background-color: #000000;
+    top: 0; 
+    left: 0; 
+    list-style-type: none;
+    font-size: 12pt;
+}
+
+
+li{
+    text-align: center;
+    margin: 100px 0;
+}
+
+
+li a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+li a:hover {
+    color: #9fccb8;
+}
+
+
+.hotelmain1  {
+    background-image: url("images/hotel1.jpg");
+    min-height: 900px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #000000;
+    
+}
+
+.hotelmain2 {
+     background-image: url("images/hotel3.jpg");
+    min-height: 900px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #000000;  
+}
+
+.welcome {
+    margin-left: 150px;
+    margin-right: 120px;
+    text-align: center;
+    padding-top: 350px;         
+    padding-bottom: 350px;
+    font-size: 2em;
+}
+
+
+.welcomemain {
+    margin-left: 150px;
+    margin-right: 120px;
+    text-align: center;
+    padding-top: 100px;         
+    padding-bottom: 170px;  
+}
+
+
+.roommain {
+    margin-left: 200px;
+    margin-right: 100px;
+    padding-top: 280px;
+    padding-bottom: 380px;
+    text-align: center;
+    font-size: 1em;
+}
+
+
+
+.basicroom, .doubleroom, .viproom {
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 50px;
+    padding-top: 35px;
+    padding-bottom: 100px;
+}
+
+
+.basicroom {
+    background-color: #b0ccc1;
+    color: #FFFFFF;
+}
+
+
+.doubleroom {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+
+.viproom {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+
+
+.top {
+    background-image: url("images/wellness.jpg");
+    min-height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-color: #000000;
+}
+
+
+.spamain {
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right: 100px;
+    padding-bottom: 90px;
+    padding-left: 25px; 
+    text-align: center;
+}
+
+
+.imgspa, .imgfitness {
+    padding-top: 25px;
+}
+   
+
+.foodmain {
+    background-image: url("images/dining1.jpg");
+    min-height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #000000;
+}
+
+
+.dining {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 140px;
+    margin-right: 50px;
+    text-align: center;
+}
+
+
+.bistro, .finedining {
+    padding-top: 35px;
+    padding-bottom: 20px;   
+}
+
+
+
